@@ -6,11 +6,8 @@ I'll make my legs keep walking to get achievement and DREAMS.
 
 Currently, I am working as
 - Software engineer at [Jubelio Omnichannel](https://jubelio.com)
-- I’m currently learning Flutter The Clean Architecture and Go.
 - Ask me about anything related to React, JavaScript, and Testing.
 - I’m looking to collaborate on any open source projects related to React and JavaScript
-
-Need a website or apps ? contact me to start business. 
 
 **Languages and Tools:**  
 
